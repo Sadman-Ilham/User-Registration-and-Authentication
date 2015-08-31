@@ -21,8 +21,8 @@ A starter project using Spring MVC and Hibenate
 	- Open the project using the user-registration.iml file in IntelliJ IDEA
 	- Edit configuration using a Tomcat Local Server (I've used Tomcat 8.0.24)
 		- Press ctrl+shift+a
-		- Type run/debug configurations
-		- Select Edit configurations from the drop down list
+		- Type 'run/debug configurations'
+		- Select 'Edit configurations' from the drop down list
 		- On the configuratoin panel press the green '+' button on the top-left corner
 		- Select Tomcat Server > Local
 		- Configure the Application Server in the Server tab
